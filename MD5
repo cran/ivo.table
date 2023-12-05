@@ -1,9 +1,9 @@
-ef441b3be2fd492bab92aa172add01f4 *DESCRIPTION
+85147b5a9278837d5546407641aaa4e2 *DESCRIPTION
 713fdb475c86ddaeb610a0191b8f0ba0 *LICENSE
 a1bfad2f08c2d88a9f90ad6732999abb *NAMESPACE
 8d910b48f4c1eaeeb91afaec81b1c69f *NEWS.md
-cc1e217e4c83df6cae639f0b18388710 *R/ivo_tables.R
-77787ae251039da4dbf08f4a684450fa *README.md
+48e0ddb2cc54e2c6a6798eb56c3822c7 *R/ivo_tables.R
+dd4d95fa07e218b467f9ed1c71ff8ba7 *README.md
 d41d8cd98f00b204e9800998ecf8427e *inst/REFERENCES.bib
 fd4d6ea2ea402456cf7329ee80884596 *man/ivo_flextable_theme.Rd
 ae8da95749d22c20ae9e298d66a0f608 *man/ivo_flextable_to_xlsx.Rd
