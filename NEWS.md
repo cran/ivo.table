@@ -1,3 +1,6 @@
+# ivo.table version 0.4
+Removed the option to export to Excel due to upstream changes in the flextable package. Bug fixes.
+
 # ivo.table version 0.3
 Improved export to Excel, added options for custom text for total and missing values.
 

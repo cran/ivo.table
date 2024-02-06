@@ -100,11 +100,6 @@ caption = "Values between 1 and 3 are masked."
 ### 4-way tables ###
 data4 <- example_data |> dplyr::select(Year, B, C, A)
 ivo_table_masked(data4, colsums = TRUE, rowsums = TRUE)
-
-### Exporting to Excel ###
-\dontrun{
-ivo_table_masked(data4, colsums = TRUE, rowsums = TRUE) |> ivo_flextable_to_xlsx("example_table")
-}
 }
 \seealso{
 {ivo_table_add_mask}
