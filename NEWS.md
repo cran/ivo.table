@@ -1,5 +1,5 @@
-# ivo.table version 0.4.1
-Bug fixes related to categories being displayed in the wrong order when there was missing data in a dataset.
+# ivo.table version 0.5
+Improved table formatting and fixed a bug that could occur for datasets with missing data.
 
 # ivo.table version 0.4
 Removed the option to export to Excel due to upstream changes in the flextable package. Bug fixes.

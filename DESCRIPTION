@@ -1,6 +1,6 @@
 Package: ivo.table
 Title: Nicely Formatted Contingency Tables and Frequency Tables
-Version: 0.4.1
+Version: 0.5
 Authors@R: 
     c(person(given = "Måns",
            family = "Thulin",
@@ -19,13 +19,13 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 URL: https://github.com/mthulin/ivo.table
 BugReports: https://github.com/mthulin/ivo.table/issues
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 Imports: dplyr, flextable, checkmate, officer, tidyr
 NeedsCompilation: no
-Packaged: 2024-03-19 14:55:48 UTC; mans
+Packaged: 2024-08-14 07:04:11 UTC; mans
 Author: Måns Thulin [aut, cre],
   Kajsa Grind [aut],
   Stefan Furne [aut]
 Maintainer: Måns Thulin <mans@statistikkonsult.com>
 Repository: CRAN
-Date/Publication: 2024-03-19 15:20:02 UTC
+Date/Publication: 2024-08-28 13:40:20 UTC
