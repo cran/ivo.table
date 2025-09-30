@@ -1,4 +1,6 @@
-# ivo.table
+# ivo.table 
+<img src="man/figures/logo.png" align="right" width="350" />
+
 This R package provides functions for easily creating nicely formatted frequency tables and contingency tables (cross-tables), that are straightforward to export to HTML or Office documents. It can do 1-way tables (wide or long), 2-way tables, 3-way tables and 4-way tables. It is based on `flextable`.
 
 The package was developed at [IVO](https://www.ivo.se), The Health and Social Care Inspectorate in Sweden.

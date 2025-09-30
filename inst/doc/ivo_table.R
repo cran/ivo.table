@@ -16,10 +16,10 @@ library(ivo.table)
 penguins |> select(species, sex, island) |> ivo_table()
 
 ## ----example3, eval = FALSE---------------------------------------------------
-#  penguins |>
-#    select(species, sex, island) |>
-#    ivo_table() |>
-#    flextable::save_as_docx(path = "example_table.docx")
+# penguins |>
+#   select(species, sex, island) |>
+#   ivo_table() |>
+#   flextable::save_as_docx(path = "example_table.docx")
 
 ## ----example4-----------------------------------------------------------------
 penguins |>
