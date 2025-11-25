@@ -1,6 +1,6 @@
 Package: ivo.table
 Title: Nicely Formatted Contingency Tables and Frequency Tables
-Version: 0.7.0
+Version: 0.7.1
 Authors@R: 
     c(person(given = "Måns",
            family = "Thulin",
@@ -26,10 +26,10 @@ Imports: dplyr, flextable, checkmate, gt, officer, purrr, tidyr
 Suggests: knitr, rmarkdown, palmerpenguins
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-09-30 11:14:10 UTC; mans
+Packaged: 2025-11-25 12:57:34 UTC; mans
 Author: Måns Thulin [aut, cre],
   Kajsa Grind [aut],
   Stefan Furne [aut]
 Maintainer: Måns Thulin <mans@statistikkonsult.com>
 Repository: CRAN
-Date/Publication: 2025-09-30 12:00:02 UTC
+Date/Publication: 2025-11-25 13:42:05 UTC
